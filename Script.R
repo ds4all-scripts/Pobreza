@@ -3,6 +3,7 @@
 #Limpa o Ambiente Global
 rm(list=ls())
 
+
 #Verificando o diretorio que o R esta direcionado
 getwd()
 
